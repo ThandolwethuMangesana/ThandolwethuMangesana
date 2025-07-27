@@ -30,7 +30,28 @@ It is good to have you here :)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+
 
 **UI/UX & Design:**
 
 [![Figma](https://img.shields.io/badge/-Figma-0AC97F?logo=figma)](https://help.figma.com/hc/en-us) 
+
+## Future Tecnical Skills
+
+**Data & Analytics:**  
+[![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql)](https://www.w3schools.com/sql/) 
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)](https://www.python.org/about/gettingstarted/)
+
+**Web Development:** 
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-323330?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org)
+
+
+## 🏅 Certifications
+
+[![Scrimba: Bootstrap](https://img.shields.io/badge/-Bootstrap%20Course-7952B3?logo=bootstrap&logoColor=white)](https://scrimba.com/playlist/pD5KUE)
+[![Scrimba: UI Design Fundamentals](https://img.shields.io/badge/-UI%20Design%20Fundamentals-4B9CD3?logo=scrimba&logoColor=white)](https://scrimba.com/intro-to-ui-design-fundamentals-c0q)
+[![Scrimba Profile](https://img.shields.io/badge/-My%20Scrimba%20Profile-4B9CD3?logo=scrimba&logoColor=white)](https://scrimba.com/user/Thandolwethu-Mangesana)
+
