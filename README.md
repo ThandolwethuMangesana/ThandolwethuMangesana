@@ -1,6 +1,7 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome, I'm Thandolwethu Mangesana
-==============================================================================================================================================
+# Welcome, I'm Thandolwethu Mangesana
+It is good to have you here :)
 
-Software Developer
-------------------
-I am a passionate Software Development student eager to build cool things and learn every day.
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThandolwethuMangesana&color=5865F2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/thandolwethu-mangesana)
