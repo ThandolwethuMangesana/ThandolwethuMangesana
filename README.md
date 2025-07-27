@@ -65,3 +65,10 @@ It is good to have you here :)
 | [CS Pets Instagram Profile](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF03.git) |Pet Instagran Profile |`CSS` `HTML`|
 | [HTML Responsive Fooer](https://github.com/ThandolwethuMangesana/ThandolwethuMangesana-THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF04.git) | Footer form with Quick links | `CSS` |
 | [Responsive Tailwind Footer Refactor](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF05.git) |Responsive footer form with Quicklinks. | `Tailwind css`  |
+
+---
+
+### 📊 GitHub Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThandolwethuMangesana&show_icons=true&theme=dark)](https://github.com/ThandolwethuMangesana)
+
+---
