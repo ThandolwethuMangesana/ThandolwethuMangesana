@@ -3,3 +3,4 @@
 
 Software Developer
 ------------------
+I am a passionate Software Development student eager to build cool things and learn every day.
