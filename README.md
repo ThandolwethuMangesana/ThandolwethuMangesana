@@ -76,4 +76,11 @@ It is good to have you here :)
 ### 📫 Reach Me  
 - **Email**: [mangesanathandowethu@gmail.com](mangesanathandolwethu@gmail.com)  
 - **LinkedIn**: [ThandolwethuMangesana](https://www.linkedin.com/in/thandolwethu-mangesana)
-- **Portfolio**: [SDFPP Resume Project](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF_Portfolio_Piece.git)  
+- **Portfolio**: [SDFPP Resume Project](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF_Portfolio_Piece.git)
+
+---
+
+### 🎯 Goals 
+- Secure a Software Developer Role
+- Grow my expertise in Web Development
+- Contribute to projects bridging **business needs** and **technology**
