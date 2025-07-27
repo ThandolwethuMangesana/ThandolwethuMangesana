@@ -48,6 +48,7 @@ It is good to have you here :)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-323330?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org)
 
+---
 
 ## 🏅 Certifications
 
@@ -55,3 +56,12 @@ It is good to have you here :)
 [![Scrimba: UI Design Fundamentals](https://img.shields.io/badge/-UI%20Design%20Fundamentals-4B9CD3?logo=scrimba&logoColor=white)](https://scrimba.com/intro-to-ui-design-fundamentals-c0q)
 [![Scrimba Profile](https://img.shields.io/badge/-My%20Scrimba%20Profile-4B9CD3?logo=scrimba&logoColor=white)](https://scrimba.com/user/Thandolwethu-Mangesana)
 
+---
+
+### 📂 Projects  
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [CS Cat HTML Portfolio](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF02.git) | A simple CodeSpace cat portfolio | `HTML5` |
+| [CS Pets Instagram Profile](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF03.git) |Pet Instagran Profile |`CSS` `HTML`|
+| [HTML Responsive Fooer](https://github.com/ThandolwethuMangesana/ThandolwethuMangesana-THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF04.git) | Footer form with Quick links | `CSS` |
+| [Responsive Tailwind Footer Refactor](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF05.git) |Responsive footer form with Quicklinks. | `Tailwind css`  |
