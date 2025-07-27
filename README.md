@@ -84,3 +84,10 @@ It is good to have you here :)
 - Secure a Software Developer Role
 - Grow my expertise in Web Development
 - Contribute to projects bridging **business needs** and **technology**
+
+---
+
+### 🚀 Fun Facts
+- ✨ I love coding in the early mornings
+- 💡 I’m all about unconventional ideas and learning by experimenting!
+-  💖  Coffee + Code = Best combo ever
