@@ -5,6 +5,10 @@ It is good to have you here :)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThandolwethuMangesana&color=5865F2)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/thandolwethu-mangesana)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/thandolwethu_007)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://facebook.com/Thandolwethu-Mangesana)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/0656125911)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mangesanathanolwethu@gmail.com)
 
 ### 🎓 About Me 
 **Software Development** Student at CodeSpace Academy. Passionate about, **Web Development** and **collaborating with other Developers.** **I aspire to be a Full Stack Software Developer**
