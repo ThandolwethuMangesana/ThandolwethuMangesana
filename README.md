@@ -36,7 +36,7 @@ It is good to have you here :)
 **UI/UX & Design:**
 
 [![Figma](https://img.shields.io/badge/-Figma-0AC97F?logo=figma)](https://help.figma.com/hc/en-us) 
-
+--
 ## Future Tecnical Skills
 
 **Data & Analytics:**  
@@ -72,3 +72,8 @@ It is good to have you here :)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThandolwethuMangesana&show_icons=true&theme=dark)](https://github.com/ThandolwethuMangesana)
 
 ---
+
+### 📫 Reach Me  
+- **Email**: [mangesanathandowethu@gmail.com](mangesanathandolwethu@gmail.com)  
+- **LinkedIn**: [ThandolwethuMangesana](https://www.linkedin.com/in/thandolwethu-mangesana)
+- **Portfolio**: [SDFPP Resume Project](https://github.com/ThandolwethuMangesana/THAMAN25493_FTO2506_GroupA_Thandolwethu-Mangesana_SDF_Portfolio_Piece.git)  
